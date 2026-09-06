@@ -452,26 +452,6 @@ Depois de adicionar as imagens, basta remover este bloco de comentário:
 ![Demonstração](docs/imagens/05-demonstracao.png)
 -->
 
----
-
-## 🎥 Apresentação
-
-O vídeo de apresentação do projeto será disponibilizado aqui.
-
-| Item | Link |
-| --- | --- |
-| Vídeo da apresentação | _adicionar a URL após a gravação_ |
-
-Roteiro sugerido para a apresentação:
-
-1. Problema e modelagem em grafos (estações → vértices, distâncias por rota → pesos).
-2. Kruskal no código, ao vivo, com o mapa.
-3. Prim no código, ao vivo, com o mesmo conjunto de estações.
-4. Aba Comparação: mesmo custo, arestas diferentes em caso de empate.
-5. Aba Benchmark: comportamento dos tempos conforme `V` cresce.
-6. Aba Demonstração: grafo clássico de 9 vértices, custo 37, validando as duas implementações.
-
----
 
 ## 👥 Contribuidores
 
@@ -494,7 +474,12 @@ Roteiro sugerido para a apresentação:
   </tr>
 </table>
 
-| Nome | Matrícula | GitHub |
-| --- | --- | --- |
-| [Gustavo Costa de Jesus](https://github.com/cwtshh) | 211061814 | [@cwtshh](https://github.com/cwtshh) |
-| [Jésus Gabriel Carvalho Ventura](https://github.com/xGabrielCv) | 211062956 | [@xGabrielCv](https://github.com/xGabrielCv) |
+---
+
+## 🎥 Apresentação
+
+<div align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Apresenta%C3%A7%C3%A3o-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Apresentação no YouTube">
+  </a>
+</div>
