@@ -430,29 +430,6 @@ Um grafo de estações pode ficar desconexo quando **não existe rota** entre do
 
 ---
 
-## 📸 Screenshots
-
-As imagens devem ser salvas em `docs/imagens/` e referenciadas aqui.
-
-| Arquivo esperado | Conteúdo |
-| --- | --- |
-| `docs/imagens/01-mapa.png` | Aba Mapa com estações e a MST traçada sobre as ruas |
-| `docs/imagens/02-resultados.png` | Aba Resultados com a tabela de arestas e os contadores de operações |
-| `docs/imagens/03-comparacao.png` | Aba Comparação mostrando Kruskal × Prim com o mesmo custo |
-| `docs/imagens/04-benchmark.png` | Aba Benchmark com o gráfico de tempo por número de vértices |
-| `docs/imagens/05-demonstracao.png` | Aba Demonstração com um grafo didático |
-
-<!--
-Depois de adicionar as imagens, basta remover este bloco de comentário:
-
-![Mapa](docs/imagens/01-mapa.png)
-![Resultados](docs/imagens/02-resultados.png)
-![Comparação](docs/imagens/03-comparacao.png)
-![Benchmark](docs/imagens/04-benchmark.png)
-![Demonstração](docs/imagens/05-demonstracao.png)
--->
-
-
 ## 👥 Contribuidores
 
 <table align="center">
@@ -479,7 +456,7 @@ Depois de adicionar as imagens, basta remover este bloco de comentário:
 ## 🎥 Apresentação
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://youtu.be/5tycfchhUoc" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Apresenta%C3%A7%C3%A3o-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Apresentação no YouTube">
   </a>
 </div>
